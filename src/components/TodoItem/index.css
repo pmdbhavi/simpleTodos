@@ -1,0 +1,16 @@
+.simple-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  margin: 20px;
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
